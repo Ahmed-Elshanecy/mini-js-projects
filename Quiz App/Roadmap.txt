@@ -1,0 +1,47 @@
+done
+1---json object which include the questions
+2---start html
+3---add Dummy data
+4---create the styling
+
+
+
+5---fetch number of question from json object
+6---show question counts + category
+7---show the number of the bolts depend on question counts
+8---var for correct answers and incorrect 
+9---create count down timer for every question
+10--fetch question from json object
+11--show first qu
+12--check answer and hide question then show next one
+13--if time end >> mark the qu as wrong then show next qu
+14--add class "done" on bolts after answering the qu
+15--if qu finished show the result
+
+
+____________________________
+-many json objects
+-add many questions and choose only 10 randomly
+-randomize answers()
+
+
+
+
+
+
+
+function getQuestions() {
+    let request = new XMLHttpRequest();
+    request.open("Get", "main.json", true);
+    request.send();
+
+    request.onreadystatechange = function () {
+        if (this.readyState === 4 && this.status === 200) {
+            let questionsObj = JSON.parse(this.responseText);
+            console.log(questionsObj);
+        }
+    };
+}
+getQuestions();
+
+دي بتخليني اجيب الحاجه من الجيسون اوبجكت

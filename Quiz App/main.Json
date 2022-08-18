@@ -1,0 +1,66 @@
+[
+    {
+        "title": "what is the value of 2+2",
+        "answer1": "the value is 1",
+        "answer2": "the value is 2",
+        "answer3": "the value is 3",
+        "answer4": "the value is 4",
+        "theRightAnswer": "the value is 4"
+    },
+    {
+        "title": "what is the value of 1+2",
+        "answer1": "the value is 2",
+        "answer2": "the value is 3",
+        "answer3": "the value is 1",
+        "answer4": "the value is 4",
+        "theRightAnswer": "the value is 3"
+    },
+    {
+        "title": "what is the value of 0+2",
+        "answer1": "the value is 4",
+        "answer2": "the value is 1",
+        "answer3": "the value is 3",
+        "answer4": "the value is 2",
+        "theRightAnswer": "the value is 2"
+    },
+    {
+        "title": "what is the value of 1+1",
+        "answer1": "the value is 3",
+        "answer2": "the value is 2",
+        "answer3": "the value is 1",
+        "answer4": "the value is 4",
+        "theRightAnswer": "the value is 2"
+    },
+    {
+        "title": "what is the value of 0+1",
+        "answer1": "the value is 1",
+        "answer2": "the value is 2",
+        "answer3": "the value is 3",
+        "answer4": "the value is 4",
+        "theRightAnswer": "the value is 1"
+    },
+    {
+        "title": "what is the value of 2*2",
+        "answer1": "the value is 1",
+        "answer2": "the value is 4",
+        "answer3": "the value is 3",
+        "answer4": "the value is 2",
+        "theRightAnswer": "the value is 4"
+    },
+    {
+        "title": "what is the value of 2+2-1",
+        "answer1": "the value is 1",
+        "answer2": "the value is 2",
+        "answer3": "the value is 3",
+        "answer4": "the value is 4",
+        "theRightAnswer": "the value is 3"
+    },
+    {
+        "title": "what is the value of 2+2-2",
+        "answer1": "the value is 1",
+        "answer2": "the value is 2",
+        "answer3": "the value is 3",
+        "answer4": "the value is 4",
+        "theRightAnswer": "the value is 2"
+    }
+]
